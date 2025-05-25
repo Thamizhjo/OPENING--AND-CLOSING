@@ -61,23 +61,24 @@ plt.axis("off")
 
 ### Display the input Image
 
+![Screenshot 2025-05-26 002711](https://github.com/user-attachments/assets/d16dd1cb-5886-4a23-aa25-f79aa7577a12)
 
 
-![Screenshot 2025-05-21 211944](https://github.com/user-attachments/assets/45f65ef6-c8f8-45d6-ba79-1ae5567d216b)
+
 
 
 
 ### Display the result of Opening
 
 
-![Screenshot 2025-05-21 211950](https://github.com/user-attachments/assets/2b4e02d7-72df-47f6-a009-8ff276ff2133)
+![Screenshot 2025-05-26 002716](https://github.com/user-attachments/assets/a1d7f486-36f2-440b-9afd-901d9a8096f3)
 
 
 
 ### Display the result of Closing
 
-![Screenshot 2025-05-21 211955](https://github.com/user-attachments/assets/919c5c74-779d-4bb5-a7e6-809ac7e4f2e4)
 
+![Screenshot 2025-05-26 002720](https://github.com/user-attachments/assets/2b058e51-b44f-4097-b931-a775644d9741)
 
 
 
