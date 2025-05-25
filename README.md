@@ -23,8 +23,8 @@ Use Opening operation.
 Use Closing Operation. 
 ## Program:
 ```
-DEVELOPED BY: Karsavarthan R R
-REGISTER NO: 212223230100
+Developed by: THAMIZH KUMARAN S
+RegisterNumber: 212223240166
 ```
 # Import the necessary packages
 ```
