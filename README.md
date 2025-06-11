@@ -36,7 +36,7 @@ import matplotlib.pyplot as plt
 ```
 img = np.zeros((100, 550), dtype = 'uint8')
 font = cv2.FONT_ITALIC
-cv2.putText(img, 'KARSA', (5,70), font, 2, (255), 5, cv2.LINE_AA)
+cv2.putText(img, 'THAMIZH', (5,70), font, 2, (255), 5, cv2.LINE_AA)
 n_img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 plt.imshow(n_img)
 plt.axis("off")
